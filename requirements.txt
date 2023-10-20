@@ -1,0 +1,6 @@
+flair
+flask
+nltk
+requests
+spacy
+textblob
